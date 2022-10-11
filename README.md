@@ -1,4 +1,5 @@
-# workout_tracker
+# ActiveTracker
+A simple app to track your workout. Build with VueJS
 
 ## Project setup
 ```
